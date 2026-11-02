@@ -28,8 +28,6 @@ The system aims to automate schedule generation, identify scheduling conflicts, 
 
 ## Stakeholders
 
-The system involves three main stakeholder groups:
-
 ### 1. Faculty Members
 
 - Provide preferences regarding course timing.
@@ -83,31 +81,57 @@ Its main benefits for this project include:
 
 ## System Analysis and Design
 
-The project covers the following system analysis and design diagrams:
+The project includes the following diagrams to illustrate the system requirements, structure, processes, and relationships.
 
-1. Use Case Diagram
-2. Activity Diagram
-3. Sequence Diagram
-4. Context Diagram
-5. Level-0 Data Flow Diagram (DFD)
-6. Entity-Relationship Diagram (ERD)
-7. Class Diagram
+### 1. Use Case Diagram
+
+![Use Case Diagram](Use%20Case%20diagram.png)
+
+### 2. Activity Diagram
+
+![Activity Diagram](Activity%20diagram.png)
+
+### 3. Sequence Diagram
+
+![Sequence Diagram](Sequence%20diagram.png)
+
+### 4. Context Diagram
+
+![Context Diagram](Context%20diagram.png)
+
+### 5. Level-0 Data Flow Diagram (DFD)
+
+![Level-0 DFD Diagram](Level-0%20DFD%20diagram.png)
+
+### 6. Entity-Relationship Diagram (ERD)
+
+![Entity Relationship Diagram](Entity-Relationship%20Diagram.png)
+
+### 7. Class Diagram
+
+![Class Diagram](Class%20diagram.png)
 
 ## User Interface Design
 
-The proposed system includes separate user interfaces for its three main stakeholder groups:
+The proposed system includes separate user interfaces for its three main stakeholder groups.
 
-### Faculty Administrator Interface
+### 1. Faculty Administrator Interface
 
 Designed to support administrative activities and course scheduling management.
 
-### Faculty Member Interface
+![Faculty Administrator Interface](User%20Interface%20for%20Faculty%20Administrator.png)
+
+### 2. Faculty Member Interface
 
 Designed to allow faculty members to provide their course and scheduling preferences.
 
-### Student Interface
+![Faculty Member Interface](User%20Interface%20for%20Faculty%20Member.png)
+
+### 3. Student Interface
 
 Designed to allow students to select courses, provide scheduling preferences, and make schedule changes during the first week.
+
+![Student Interface](User%20Interface%20for%20Students.png)
 
 ## Course Information
 
@@ -138,4 +162,3 @@ The main objectives of this project are to:
 This project was developed as an academic group project as part of the System Analysis and Design course.
 
 It involved analyzing an existing scheduling problem, gathering system requirements, selecting a development strategy, and designing a proposed automated solution.
-
