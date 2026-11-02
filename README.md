@@ -133,18 +133,6 @@ Designed to allow students to select courses, provide scheduling preferences, an
 
 ![Student Interface](User%20Interface%20for%20Students.png)
 
-## Course Information
-
-| Field | Details |
-|---|---|
-| Project Title | Course Registration System |
-| Proposed System | Automated Course Scheduling System (ACSS) |
-| Course Code | CIS 3430 |
-| Course Name | System Analysis and Design |
-| Semester | Second Semester, 2023–2024 |
-| Institution | Islamic University of Madinah |
-| Development Methodology | Agile |
-
 ## Project Objectives
 
 The main objectives of this project are to:
